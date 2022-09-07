@@ -1,0 +1,25 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx84b9c09a2b95133c",
+# 公众号appSecret
+"app_secret": "97dae1b4c87038081f374f4ea3a89f97",
+# 模板消息id
+"template_id": "5LIAxdfpQ32-uiqqEzwuYdeoXvPUk_LDY0GRUStyRbI",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oINoa62cOUwYJg_i3gD6zX_29C4c","oINoa61U65rmcTJLADDgT_cRac9Y"],
+
+# 信息配置
+# 所在省份
+"province": "山东",
+# 所在城市
+"city": "淄博",
+# 生日1
+"birthday1": "2023-01-01",
+# 生日2
+"birthday2": "2022-9-10",
+# 生日3
+"birthday3": "2022-10-01",
+# 在一起的日子，格式同上
+"love_date": "2022-01-1"
+}
